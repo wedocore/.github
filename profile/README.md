@@ -18,11 +18,7 @@ Our global team, comprising over 250 specialists, is committed to forging a supe
 - **Frontend Web Engineering:** Specialists in HTML/CSS, JavaScript, WCAG accessibility, React, Vue.js, Angular, and more.
 - **Cloud and Systems Engineering:** Proficient in Amazon Web Services, Azure Hosting, Systems Maintenance, and various server technologies.
 
-## Our Pledge
-
-We cater to a diverse clientele, from Fortune 500 companies to prestigious institutions and growing businesses, ensuring that each one receives technology driven by dedicated service. Our portfolio is recognized by numerous Webby awards and Emmy nominations, and we are proud contributors to the world's most popular CMS, WordPress.
-
-### Our Commitment
+## Our Commitment
 
 At Wedocore, we're large enough to tackle any challenge yet small enough to care deeply about our clients' success. We stand by our promise to never shy away from a challenge and always offer direct access to our leadership for any queries or discussions.
 
